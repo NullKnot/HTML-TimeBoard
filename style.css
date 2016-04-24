@@ -1,0 +1,14 @@
+body{
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#timeLabel{
+	position: absolute;
+	/*
+	top: 50px;
+	left: 50px;
+	font-size: 80px;
+	transform: rotate(10deg);
+	*/
+}
